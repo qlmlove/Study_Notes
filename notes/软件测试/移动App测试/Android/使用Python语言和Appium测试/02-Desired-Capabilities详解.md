@@ -2,6 +2,8 @@
 
 Desired Capabilities是启动时候的必须参数。
 
+> 参考官方文档 [Appium 服务器初始化参数（Capability）](http://appium.io/docs/cn/writing-running-appium/caps/)
+
 ## 必填参数
 示例一
 ```json
